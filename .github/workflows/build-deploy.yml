@@ -35,11 +35,11 @@ jobs:
       - name: Build website
         run: hugo --minify
 
-      - name: Upload static files to Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
           path: './public'
+          name: github-pages
 
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
-        if: github.ref == 'refs/heads/main'
+        uses: actions/deploy-pages@v4
