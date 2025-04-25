@@ -33,6 +33,8 @@ Weniger Fahrzeuge auf den Straßen, günstigere Fahrpreise und reduzierter CO₂
 
 *Vorbild: New Yorks „High Line“ — eine stillgelegte Hochbahntrasse, die zu einem 2,3 km langen Park in luftiger Höhe umgebaut wurde.*
 
+![](/images/parken.png)
+
 In der Stadt der Zukunft könnten Highlines zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern.
 
 
