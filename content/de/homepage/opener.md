@@ -1,16 +1,18 @@
 ---
 title: "Willkommen"
+header_menu_title: "Einführung"
+navigation_menu_title: "Einführung"
 weight: 1
+header_menu: true
 ---
 
-Das ist die deutsche Beispielseite.
+Unsere Städte stehen vor vielen erausforderungen:
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page.
-The landing screen is meant to be visually striking.
+Klimawandel, Überbevölkerung, Lärm, Luftverschmutzung und
+Ressourcenknappheit prägen das urbane Leben.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
+In meiner Vision einer Stadt der Zukunft möchte ich zeigen,
+wie ein nachhaltiges, lebenswertes und modernes Stadtleben funktionieren kann - ohne dabei die Umwelt zu belasten.
 
-> The belly rules the mind. --- spanish proverb
+*Klicke dich gerne durch die verschiedenen Bausteine meiner Stadt und entdecke meine Ideen und Konzepte*
 
-By the way this welcome section won't show in the cover menu.
