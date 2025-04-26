@@ -1,8 +1,10 @@
-# StadtDerZukunft
+# Stadt der Zukunft
 
 Projekt für das Fach Erdkunde
 
 Veröffentlicht unter https://julianewahrenberg.github.io/StadtDerZukunft/
+
+Erstellt mit [Hugo](https://gohugo.io/) und dem Theme [Hugo Scroll](https://github.com/zjedi/hugo-scroll)
 
 
 ## Wie arbeite ich an dieser HomePage?
