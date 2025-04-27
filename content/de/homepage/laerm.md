@@ -11,7 +11,7 @@ Lärm ist eines der größten Umweltprobleme in unseren Städten.
 Ständiger Vekehr, Baustellen und dichte Bebauung sorgen dafür, dass es kaum noch ruihge Plätze gibt.
 Mottorräder und LKWs, aber auch PKWs erzeugen insbesondere beim Anfahren und Bremsen nicht nur erheblichen Lärm, sondern verschmutzen durch Reifenabrie auch die Umwelt.
 
-In der Stadt der Zukunft spilet aktiver Lärmschutz eine entscheidende Rolle, um mehr Ruhe und Lebensqualität zu bieten.
+In der Stadt der Zukunft spielt aktiver Lärmschutz eine entscheidende Rolle, um mehr Ruhe und Lebensqualität zu bieten.
 
 
 ---
@@ -20,8 +20,10 @@ In der Stadt der Zukunft spilet aktiver Lärmschutz eine entscheidende Rolle, um
 
 **Lärmschutzwände:**
 
-Begrünte Wände entlang von Hauptstraßen und Schienen.
-ZUm Beispiel Mooswänden, die gleichzeitig Feinstaub filtern.
+Lärmschutzwände sind auch heute schon entlang von vielen Hauptstraßen, Schienen, aber auch Flüghäfen zu finden, um die Bewohner vor der ständigen Aussetzung von Stadtlärm zu schützen.
+
+Werden diese begrünt (zum Beispiel durch Moos) können sie gleichzeitig Feinstaub filtern und so auch zu einem funktionierendem Ökosystem beitragen.
+
 
 **Umweltzonen:**
 
