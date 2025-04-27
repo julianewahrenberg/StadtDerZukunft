@@ -40,7 +40,7 @@ git clone --recurse-submodules https://github.com/julianewahrenberg/StadtDerZuku
 ```
 cd StadtDerZukunft
 code .
-hugo server
+hugo server --disableFastRender
 ```
 
 Immer wieder in "Baby-Steps":
