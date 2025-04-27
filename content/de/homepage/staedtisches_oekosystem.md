@@ -23,12 +23,12 @@ Fassaden und Dächer bieten große Flächen, die einfach in CO2 speicher aber au
 Pflanzen an Gebäudewänden und auf Dächern verbessern die Luftqualität, kühlen im Sommer durch Verdunstungskälte und binden Feinstaub, sowie CO2.
 
 ![](/images/begruente_stadt.jpg)
-https://www.findorffaktuell.de/findorff-aktuell/klima-energie/
+Quelle: https://www.findorffaktuell.de/findorff-aktuell/klima-energie/
 
 *Ein Beispiel ist das Bosco Verticale in Mailand: Ein Hochhaus mit hunderten Bäumen und Sträuchern auf Balkonen.*
 
 ![](/images/bosco_verticale.jpg)
-https://www.archdaily.com/777498/bosco-verticale-stefano-boeri-architetti
+Quelle: https://www.archdaily.com/777498/bosco-verticale-stefano-boeri-architetti
 
 **Urban Gardening:**
 
@@ -37,7 +37,7 @@ Gemeinschaftsgärten, Hochbeete auf Bracheflächen, Balkongärten und Pflanzenw�
 Bewohner können Obst und Gemüse selbst anbauen, was nicht nur Transportwege spart, sondern auch die Gemeinschaft stärkt.
 
 ![](/images/Hochbeete.jpg)
-https://www.shz.de/lokales/luebeck/artikel/150-hochbeete-verwandeln-koberg-in-gruenes-labyrinth-20147933
+Quelle: https://www.shz.de/lokales/luebeck/artikel/150-hochbeete-verwandeln-koberg-in-gruenes-labyrinth-20147933
 
 
 **Essbare Städte:**
@@ -47,5 +47,5 @@ https://www.shz.de/lokales/luebeck/artikel/150-hochbeete-verwandeln-koberg-in-gr
 *Ein Beispiel ist Adernach in Rheinland-Pfalz, eine der ersten "Essbaren Städte" in Deutschland*
 
 ![](/images/Hochbeet-essbare-Stadt.jpg)
-https://supertipp-online.de/nachrichten/ratingen/essbare-stadt-weitere-hochbeet-paten-gesucht-id130956
+Quelle: https://supertipp-online.de/nachrichten/ratingen/essbare-stadt-weitere-hochbeet-paten-gesucht-id130956
 
