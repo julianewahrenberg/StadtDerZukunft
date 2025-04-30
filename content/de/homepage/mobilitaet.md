@@ -9,7 +9,7 @@ header_menu: true
 Städte leiden unter Staus, Lärm und Abgasen.
 
 Durch den Straßenverkehr, insbesondere durch den Brems- und Reifenabrieb wird die Luft verschmutzt und erwärmt,
-was nicht nur die Umwelt stark belastet, sondern auch die Lebensqualität in städten erheblich senkt.
+was nicht nur die Umwelt stark belastet, sondern auch die Lebensqualität in Städten erheblich senkt.
 
 Neue Mobilitätskonzepte sollen den Verkehr reduzieren, die Luft verbessern und Ressourcen sparen.
 

@@ -6,7 +6,7 @@ weight: 1
 header_menu: true
 ---
 
-Unsere Städte stehen vor vielen erausforderungen:
+Unsere Städte stehen vor vielen Herausforderungen:
 
 Klimawandel, Überbevölkerung, Lärm, Luftverschmutzung und
 Ressourcenknappheit prägen das urbane Leben.
