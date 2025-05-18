@@ -39,6 +39,26 @@ Möglich machen das versickerungsfähige Pflaster, begrünte Mulden, Retentionsd
 
 So werden Überschwemmungen vermieden, das Stadtklima verbessert und Wasser bleibt im natürlichen Kreislauf.
 
+![](/images/schwammstadt.jpg)
+Quelle: https://www.gruen-in-die-stadt.de/schwammstadt/
+
+Aufbau eines Retentionsdachs:
+![](/images/Retentionsdach.jpg)
+Quelle: https://www.nutzedeindach.de/dachbegruenung/retention
+
+**Luftschneisen:**
+
+Durch große Gebäude und versiegelte Flächen wird der Flurwind (ein Luftstrom, der durch Temperaturunterschiede zwischen Stadt und Land entsteht) stark eingeschränkt.
+
+Freiflächen, Parks und begrünte Korridore begünstigen diesen und sorgen für einen natürlichen Luftaustausch.
+Kühle Luft wird so bis in die Innenstadt transportiert und sorgt für eine Spürbare Abkühlung, was besonders in den Sommertagen entscheident für das Wohlbefinden der Bewohner ist.
+
+Zudem tragen sogenannte Luftschneisen dazu bei, den Verkehrslärm in Städten zu verringern.
+Sie leiten nicht nur frische Luft in dicht bebaute Gebiete, sondern wirken auch schalldämpfend, da sie den durch Gebäude verstärkten Stadtlärm abschwächen.
+
+![](/images/Flurwind.jpg)
+Quelle: https://wir-sind-blankenburg.com/kaltluftaustauschgebiet-blankenburg/
+
 **Urban Gardening:**
 
 Gemeinschaftsgärten, Hochbeete auf Bracheflächen, Balkongärten und Pflanzenwände in Innenhöfen schaffen nicht nur ein angenehmes Stadtklima, sondern fördern auch die Biodiversität im urbanen Raum.

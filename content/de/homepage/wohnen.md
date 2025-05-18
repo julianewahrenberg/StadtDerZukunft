@@ -22,6 +22,9 @@ Darüber hinaus fördern Gemeinschaftsräume, wie Küchen, Werkstätten oder Gä
 
 *In Deutschland gibt es bereits mehrere Projekte, z. B. das Mehrgenerationenhaus Heidelberg, das Wohnen, Begegnung und soziale Angebote kombiniert.*
 
+![](/images/mehrgenerationenhaus.jpg)
+Quelle: https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/mehrgenerationenhaeuser/mehrgenerationenhaeuser-74018
+
 **Flexible Grundrisse:**
 
 Um der Wohnungsknappheit entgegen zu wirken sind wandelbare Wohnungen, die je nach Lebensphase angepasst werden können, von großem Vorteil.

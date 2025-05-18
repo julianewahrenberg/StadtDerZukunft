@@ -22,8 +22,13 @@ Auf Dächern von Wohnhäusern, Schulen und Supermärkten, an Fassaden moderner G
 oder an Bushaltestellen und Straßenlaternen.
 Als Kombination mit dem Lärmschutz können auch die Lärmschutzwände mit Photovoltaik-Modulen ausgestattet werden.
 
+![](/images/Solaranlage-auf-Bushaltestelle.jpg)
+Quelle: https://www.pv-magazine.de/2023/08/11/solares-bushaltestellendach-senkt-temperatur-um-bis-zu-20-grad-celsius/
+
 Durch moderne Solarfolien und gebäudeintegrierte Solarmodule (BIPV) lässt sich die Energiegewinnung sogar ästhetisch in die Architektur einbinden. So wird der vorhandene Platz in der Stadt optimal genutzt.
 
+![](/images/BIPV.jpg)
+Quelle: https://www.maysunsolar.de/blog/gebaeudeintegrierte-photovoltaik-im-ueberblick
 
 *Ein Beispiel für eine efiziente Nutzung sind Solartrees, also solarbetriebene Straßenlaternen mit Ladestationen*
 
@@ -32,6 +37,9 @@ Durch moderne Solarfolien und gebäudeintegrierte Solarmodule (BIPV) lässt sich
 Große Windräder brauchen viel Platz, doch es gibt mittlerweile innovative Vertikalachsen-Windturbinen, die auch in Städten, zum Beispiel auf Flachdächern von Hochhäusern oder auf Verkehrsinseln, aufgestellt werden können:
 
 Diese kleineren Turbinen arbeiten leiser und effizienter bei wechselnden Windrichtungen und können die Energieversorgung von Stadtvierteln unterstützen.
+
+![](/images/windräder.jpg)
+Quelle: https://www.sueddeutsche.de/muenchen/muenchen-windkraft-windenergie-photovoltaik-1.5637998
 
 **Intelligente Heizsysteme:**
 

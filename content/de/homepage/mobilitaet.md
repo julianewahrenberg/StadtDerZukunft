@@ -21,12 +21,20 @@ Gleichzeitig wird die Vermischung der Daseinsfunktionen – also Wohnen, Arbeite
 Statt dass jede Person ein eigenes Auto besitzt, werden Carsharing-Angebote ausgebaut.
 Über Apps können Autos in der Nähe gebucht und für einzelne Fahrten genutzt werden.
 
+![](/images/carsharing.jpg)
+Quelle: https://eurorent.hu/varosi-autoberles-vs-carsharing/
+
+
 Besonders effizient sind Elektro-Carsharing-Autos, die leise und emissionsfrei unterwegs sind. So sinkt die Zahl der Fahrzeuge in der Stadt, Parkflächen werden frei und der Verkehr insgesamt wird entspannter und leiser.
 
 Eine Idee für die Zukunft wäre, dass solche Fahrzeuge automatisch erkennen, ob sie sich in Umweltzonen oder verkehrsberuhigten Bereichen befinden und entsprechend elektrisch oder gar nicht fahren.
 Darüberhinaus kann ein Solardach der Ladeunterstützung dienen.
 
 *Beispiel: Anbieter wie „Cambio“ oder „Share Now“ in großen Städten.*
+
+Auto mit Solardach:
+![](/images/Auto-mit-Solardach.jpg)
+Quelle: https://mobility-talk.com/solarautos-gute-idee-oder-alibi-stromquelle/
 
 **Elektrische Mitfahrgelegenheiten:**
 
@@ -51,6 +59,11 @@ Solche Parktürme können darüber hinaus sogar begrünte Fassaden und Solardäc
 Ein wichtiger Baustein ist die Förderung von Fahrrad- und Fußverkehr. Dafür braucht es breite, sichere Radwege, ausreichend Abstellplätze.
 
 In New York wurde eine stillgelegte Hochbahntrasse zur High Line umgebaut — ein 2,3 km langer begrünter Fuß- und Radweg über den Straßen der Stadt.
+
+![](/images/highline.jpg)
+Quelle: https://architizer.com/blog/inspiration/stories/evolution-of-the-high-line-nyc/
+
+![](/images/highline-eigenes.jpg)
 
 In deiner Zukunftsstadt könnte dieses Prinzip noch weitergedacht werden:
 Highlines könnten zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern und so trennen den langsamen Verkehr vom motorisierten trennnen.

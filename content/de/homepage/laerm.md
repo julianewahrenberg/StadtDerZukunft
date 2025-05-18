@@ -41,15 +41,8 @@ Quelle: https://www.umweltbundesamt.de/themen/umweltzonen-weiterentwickeln
 
 Durch diese Regelung wird der Ausstoß von Schadstoffen deutlich reduziert. Gleichzeitig sinkt auch die Lärmbelastung, da moderne Fahrzeuge in der Regel leiser sind als ältere Modelle.
 
-**Luftschneisen:**
 
-Durch große Gebäude und versiegelte Flächen wird der Flurwind (ein Luftstrom, der durch Temperaturunterschiede zwischen Stadt und Land entsteht) stark eingeschränkt.
 
-Freiflächen, Parks und begrünte Korridore begünstigen diesen und sorgen für einen natürlichen Luftaustausch.
-Kühle Luft wird so bis in die Innenstadt transportiert und sorgt für eine Spürbare Abkühlung, was besonders in den Sommertagen entscheident für das Wohlbefinden der Bewohner ist.
-
-Zudem tragen sogenannte Luftschneisen dazu bei, den Verkehrslärm in Städten zu verringern.
-Sie leiten nicht nur frische Luft in dicht bebaute Gebiete, sondern wirken auch schalldämpfend, da sie den durch Gebäude verstärkten Stadtlärm abschwächen.
 
 
 
