@@ -10,7 +10,7 @@ Durch den Straßenverkehr, insbesondere durch den Brems- und Reifenabrieb, wird 
 
 Das belastet nicht nur die Umwelt, sondern senkt auch die Lebensqualität der Stadtbewohner erheblich.
 
-Um dem entgegenzuwirken, braucht es ncht nur ein gut ausgebautes und funktionierendes Netz öffentlicher verkehrsmittel, sondern auch neue Mobilitätskonzepte, die den Verkehr reduzieren, die Luftqualität verbessern und Ressourcen schonen.
+Um dem entgegenzuwirken, braucht es nicht nur ein gut ausgebautes und funktionierendes Netz öffentlicher Verkehrsmittel, sondern auch neue Mobilitätskonzepte, die den Verkehr reduzieren, die Luftqualität verbessern und Ressourcen schonen.
 
 Gleichzeitig wird die Vermischung der Daseinsfunktionen – also Wohnen, Arbeiten, Bildung, Einkaufen und Erholung – gefördert. So lassen sich Wege verkürzen und viele Ziele bequem zu Fuß, mit dem Fahrrad oder öffentlichen Verkehrsmitteln erreichen, was nicht nur den Verkehr verringert, sondern Städte auch lebenswerter und vielseitiger macht.
 
@@ -39,7 +39,7 @@ Quelle: https://mobility-talk.com/solarautos-gute-idee-oder-alibi-stromquelle/
 **Elektrische Mitfahrgelegenheiten:**
 
 Ähnlich wie Carsharing sind elektrische Mitfahrangebote.
-Über eine App können sich Menschen mit ähnlichem Fahrziel zusammenschließen und gemeinsam, am besten ein ein E-Fahrzeug,nutzen — ähnlich wie ein Taxi, nur günstiger, flexibler und emissionsfrei.
+Über eine App können sich Menschen mit ähnlichem Fahrziel zusammenschließen und gemeinsam, am besten ein E-Fahrzeug, nutzen — ähnlich wie ein Taxi, nur günstiger, flexibler und emissionsfrei.
 
 **Stapelsystem-Parkgaragen:**
 
@@ -50,6 +50,7 @@ Der Fahrer stellt das Auto auf eine Plattform, die per Lift das Fahrzeug in eine
 So wird viel Platz gespart und die Straßen bleiben frei von parkenden Autos.
 
 ![](/images/parken.png)
+Quelle: privat von Juliane Wahrenberg
 
 Solche Parktürme können darüber hinaus sogar begrünte Fassaden und Solardächer haben, um das Stadtklima zusätzlich zu verbessern.
 
@@ -64,9 +65,11 @@ In New York wurde eine stillgelegte Hochbahntrasse zur High Line umgebaut — ei
 Quelle: https://architizer.com/blog/inspiration/stories/evolution-of-the-high-line-nyc/
 
 ![](/images/highline-eigenes.jpg)
+Quelle: privat von Juliane Wahrenberg
 
 In deiner Zukunftsstadt könnte dieses Prinzip noch weitergedacht werden:
-Highlines könnten zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern und so trennen den langsamen Verkehr vom motorisierten trennnen.
+Highlines könnten zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern. So kann der langsame Verkehr vom motorisierten getrennt werden.
+
 Besonders praktisch sind mit Bäumen begrünte Radwege, die Schatten spenden und das Radfahren auch im Sommer angenehm machen.
 
 

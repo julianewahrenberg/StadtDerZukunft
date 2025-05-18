@@ -30,7 +30,7 @@ Durch moderne Solarfolien und gebäudeintegrierte Solarmodule (BIPV) lässt sich
 ![](/images/BIPV.jpg)
 Quelle: https://www.maysunsolar.de/blog/gebaeudeintegrierte-photovoltaik-im-ueberblick
 
-*Ein Beispiel für eine efiziente Nutzung sind Solartrees, also solarbetriebene Straßenlaternen mit Ladestationen*
+*Ein Beispiel für eine effiziente Nutzung sind Solartrees, also solarbetriebene Straßenlaternen mit Ladestationen*
 
 **Windräder:**
 

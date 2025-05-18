@@ -14,7 +14,7 @@ In vielen Städten herrschen Wohnraummangel, steigende Mieten und zunehmende soz
 
 **Mehrgenerationenhäuser:**
 
-In Mehrgenerationenhäusern leben Menschen unterschiedlichen Alters unter einem Dach: Familien, Singles, Senioren und junge Leute, wodruch ältere Menschen im sozialen Umfeld bleiben und aktiv am Gemeinschaftsleben teilnehmen können.
+In Mehrgenerationenhäusern leben Menschen unterschiedlichen Alters unter einem Dach: Familien, Singles, Senioren und junge Leute. Dadurch ältere Menschen im sozialen Umfeld bleiben und aktiv am Gemeinschaftsleben teilnehmen können.
 
 Nachbarschaftshilfe wird hier selbstverständlich: Senioren helfen beim Babysitten, junge Menschen unterstützen beim Einkaufen oder im Garten.
 
@@ -33,13 +33,13 @@ Quelle: https://www.mrn-news.de/2018/05/07/heidelberg-neues-aus-dem-mehrgenerati
 
 Um der Wohnungsknappheit entgegen zu wirken sind wandelbare Wohnungen, die je nach Lebensphase angepasst werden können, von großem Vorteil.
 
-Kleine Einheiten für Singles können dann zum Beispiel mit Nachbarwohnungen bei Familienzuwachs verbunden werden, wodurch Umzüge verringert werden und wohnraum besser genutzt werden kann.
+Kleine Einheiten für Singles können dann zum Beispiel mit Nachbarwohnungen bei Familienzuwachs verbunden werden, wodurch Umzüge verringert werden und Wohnraum besser genutzt werden kann.
 
 **Genossenschaftliches Wohnen & Baugruppen:**
 
 Steigende Grundstückspreise, Spekulation und die Gewinnorientierung großer Investoren lassen die Mieten in vielen Städten immer weiter steigen.
 
-In der Stadt der Zukunft schließen sich Bewohner*innen zusammen, bauen und verwalten gemeinsam ihre Wohnhäuser.
+In der Stadt der Zukunft schließen sich Bewohner zusammen, bauen und verwalten gemeinsam ihre Wohnhäuser.
 Ohne Gewinninteresse von Investoren bleiben die Mieten dauerhaft niedrig.
 Zudem stärken Gemeinschaftsflächen und Mitbestimmung das Miteinander und machen Wohnen wieder bezahlbar.
 

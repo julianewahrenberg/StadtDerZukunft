@@ -9,10 +9,9 @@ header_menu: true
 Lärm ist eines der größten Umweltprobleme in unseren Städten.
 
 Ständiger Vekehr, Baustellen und dichte Bebauung sorgen dafür, dass es kaum noch ruhige Plätze gibt.
-Mottorräder und LKWs, aber auch PKWs erzeugen insbesondere beim Anfahren und Bremsen nicht nur erheblichen Lärm, sondern verschmutzen durch Reifenabrieb auch die Umwelt.
+Motorräder und LKWs, aber auch PKWs erzeugen insbesondere beim Anfahren und Bremsen nicht nur erheblichen Lärm, sondern verschmutzen durch Reifenabrieb auch die Umwelt.
 
 In der Stadt der Zukunft spielt aktiver Lärmschutz eine entscheidende Rolle, um mehr Ruhe und Lebensqualität zu bieten.
-
 
 ---
 
