@@ -41,9 +41,3 @@ Quelle: https://www.umweltbundesamt.de/themen/umweltzonen-weiterentwickeln
 
 Durch diese Regelung wird der Ausstoß von Schadstoffen deutlich reduziert. Gleichzeitig sinkt auch die Lärmbelastung, da moderne Fahrzeuge in der Regel leiser sind als ältere Modelle.
 
-
-
-
-
-
-

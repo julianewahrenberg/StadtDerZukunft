@@ -25,6 +25,10 @@ Darüber hinaus fördern Gemeinschaftsräume, wie Küchen, Werkstätten oder Gä
 ![](/images/mehrgenerationenhaus.jpg)
 Quelle: https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/mehrgenerationenhaeuser/mehrgenerationenhaeuser-74018
 
+Mehrgenerationenhaus Heidelberg:
+![](/images/Mehrgenerationenhaus-Heidel.jpg)
+Quelle: https://www.mrn-news.de/2018/05/07/heidelberg-neues-aus-dem-mehrgenerationenhaus-heidelberg-eroeffnung-des-neuen-spielzimmers-und-aufbau-der-kultur-jurte-364115/
+
 **Flexible Grundrisse:**
 
 Um der Wohnungsknappheit entgegen zu wirken sind wandelbare Wohnungen, die je nach Lebensphase angepasst werden können, von großem Vorteil.
@@ -41,6 +45,9 @@ Zudem stärken Gemeinschaftsflächen und Mitbestimmung das Miteinander und mache
 
 *Ein Beispiel ist die Wohnbaugenossenschaft "Kalkbreite" in Zürich, die zeigt, wie so ein Konzept nachhaltig, sozial und städtisch funktioniert: hoher Grünanteil, gemeinschaftliche Einrichtungen und faire Mieten.*
 
+Wohngenossenschaft Kalkbreite:
+![](/images/wohngenossenschaft.jpg)
+Quelle: https://www.deutschlandfunkkultur.de/wohnprojekt-kalkbreite-zuerich-die-fast-perfekte-zukunft-100.html
 
 
 

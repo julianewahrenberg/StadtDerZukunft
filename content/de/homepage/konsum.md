@@ -19,7 +19,10 @@ Statt Dinge zu besitzen, werden sie geteilt oder ausgeliehen.
 Über digitale Plattformen können Nachbar*innen z. B. Werkzeuge, Fahrräder, Küchengeräte oder Kleidung flexibel nutzen.
 So werden  Ressourcen gespart, Müll reduziert und  nachbarschaftlichen Kontakt geschaffen.
 
- Anstatt ständig neue Dinge zu kaufen, können zudem gebauchte Dinge secondhand weiterverkauft oder kreativ aufgewertet werden. So wird die Lebensdauer von den Produkten verlängert und Rohstoffe gespart.
+![](/images/sharing-economy.jpg)
+Quelle: https://www.verbraucherzentrale.de/sharing-economy
+
+Anstatt ständig neue Dinge zu kaufen, können zudem gebauchte Dinge secondhand weiterverkauft oder kreativ aufgewertet werden. So wird die Lebensdauer von den Produkten verlängert und Rohstoffe gespart.
 
 **Essbare Städte:**
 
@@ -42,6 +45,12 @@ Mehr Grünflächen, die das Stadtklima verbessern
 
 *In Städten wie Paris, Berlin oder New York gibt es bereits Pilotprojekte, bei denen Salat, Tomaten oder Erdbeeren direkt über den Supermärkten wachsen.
 Kombiniert mit Bienenstöcken oder Solaranlagen könnte so eine grüne Versorgungsfläche mitten in der Stadt entstehen.*
+
+![](/images/Dachfarm-Aufbau.png)
+Quelle: https://www.timber-peak.de/der-supermarkt-der-zukunft/
+
+![](/images/Dachfarm.png)
+Quelle: https://www.lebensmittelzeitung.net/handel/nachrichten/green-farming-rewe-baut-zweiten-supermarkt-mit-dachfarm-183421
 
 **Zero-Waste-Läden:**
 
