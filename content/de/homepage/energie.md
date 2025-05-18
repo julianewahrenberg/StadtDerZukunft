@@ -22,7 +22,7 @@ Auf Dächern von Wohnhäusern, Schulen und Supermärkten, an Fassaden moderner G
 oder an Bushaltestellen und Straßenlaternen.
 Als Kombination mit dem Lärmschutz können auch die Lärmschutzwände mit Photovoltaik-Modulen ausgestattet werden.
 
-![](/images/Solaranlage-auf-Bushaltestelle.jpg)
+![](/images/Solaranlage-auf-bushaltestelle.jpg)
 Quelle: https://www.pv-magazine.de/2023/08/11/solares-bushaltestellendach-senkt-temperatur-um-bis-zu-20-grad-celsius/
 
 Durch moderne Solarfolien und gebäudeintegrierte Solarmodule (BIPV) lässt sich die Energiegewinnung sogar ästhetisch in die Architektur einbinden. So wird der vorhandene Platz in der Stadt optimal genutzt.
