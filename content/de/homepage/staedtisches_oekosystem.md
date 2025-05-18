@@ -30,6 +30,15 @@ Quelle: https://www.findorffaktuell.de/findorff-aktuell/klima-energie/
 ![](/images/bosco_verticale.jpg)
 Quelle: https://www.archdaily.com/777498/bosco-verticale-stefano-boeri-architetti
 
+**Schwammstadt-Prinzip:**
+
+Durch den schnellen Oberflächenabfluss auf versiegelten Flächen kann nur wenig Wasser verdunsten, wodurch das natürliche Stadtklima beeinträchtigt wird.
+
+Statt Regenwasser über versiegelte Flächen direkt abfließen zu lassen, wird es in der Stadt der Zukunft aufgenommen, gespeichert und langsam wieder abgegeben.
+Möglich machen das versickerungsfähige Pflaster, begrünte Mulden, Retentionsdächer und Dachbegrünung.
+
+So werden Überschwemmungen vermieden, das Stadtklima verbessert und Wasser bleibt im natürlichen Kreislauf.
+
 **Urban Gardening:**
 
 Gemeinschaftsgärten, Hochbeete auf Bracheflächen, Balkongärten und Pflanzenwände in Innenhöfen schaffen nicht nur ein angenehmes Stadtklima, sondern fördern auch die Biodiversität im urbanen Raum.
@@ -41,14 +50,5 @@ Das spart lange Transportwege, stärkt das Bewusstsein für saisonale und region
 Quelle: https://www.shz.de/lokales/luebeck/artikel/150-hochbeete-verwandeln-koberg-in-gruenes-labyrinth-20147933
 
 
-**Essbare Städte:**
 
-Öffentliche Parks und Grünanlagen bieten nicht nur Erholung und Frischluft, sondern können auch Orte der gemeinschaftlichen Ernährung sein.
-
-Kräuter, Obst und Gemüse wird hier, frei zugänglich für alle, angebaut, was nicht nur ein Bewusstsein für Natur und Nachhaltigkeit fördert, sondern auch gemeinschaftliches teilen im öffentlichen Raum.
-
-*Ein Beispiel ist Adernach in Rheinland-Pfalz, eine der ersten "Essbaren Städte" in Deutschland*
-
-![](/images/Hochbeet-essbare-Stadt.jpg)
-Quelle: https://supertipp-online.de/nachrichten/ratingen/essbare-stadt-weitere-hochbeet-paten-gesucht-id130956
 

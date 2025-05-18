@@ -5,8 +5,10 @@ navigation_menu_title: "Energie"
 weight: 4
 header_menu: true
 ---
+Der steigende Energiebedarf und die Umweltbelastung durch (endliche) fossile Brennstoffe fordern neue, nachhaltige Lösungen.
 
-Fossile Brennstoffe sind klimaschädlich und endlich. Städte müssen ihre Energie erneuerbar und dezentral erzeugen.
+Städte der Zukunft setzen auf erneuerbare Energiequellen wie Solar-, Wind- und Wärmekraft. Innovative Konzepte sorgen dafür, dass Energie direkt dort erzeugt wird, wo sie gebraucht wird — auf Dächern, an Fassaden und entlang der Straßen.
+So wird die Stadt unabhängiger, sauberer und lebenswerter.
 
 ---
 
@@ -14,25 +16,29 @@ Fossile Brennstoffe sind klimaschädlich und endlich. Städte müssen ihre Energ
 
 **Solaranlagen:**
 
-Auf Dächern, Fassaden und sogar an Bushaltestellen.
-Beispiel: Solartrees (solarbetriebene Straßenlaternen mit Ladestationen).
+Photovoltaikanlagen wandeln Sonnenlicht direkt in Strom um. Sie können vielseitig eingesetzt werden:
+
+Auf Dächern von Wohnhäusern, Schulen und Supermärkten, an Fassaden moderner Gebäude, auf Parkhäusern und Carports
+oder an Bushaltestellen und Straßenlaternen.
+Als Kombination mit dem Lärmschutz können auch die Lärmschutzwände mit Photovoltaik-Modulen ausgestattet werden.
+
+Durch moderne Solarfolien und gebäudeintegrierte Solarmodule (BIPV) lässt sich die Energiegewinnung sogar ästhetisch in die Architektur einbinden. So wird der vorhandene Platz in der Stadt optimal genutzt.
+
+
+*Ein Beispiel für eine efiziente Nutzung sind Solartrees, also solarbetriebene Straßenlaternen mit Ladestationen*
 
 **Windräder:**
 
-Kleinwindanlagen auf Hochhäusern, an Stadträndern oder auf Industriebrachen.
-Idee: Kombinierte Wind-Solar-Module auf Dächern.
+Große Windräder brauchen viel Platz, doch es gibt mittlerweile innovative Vertikalachsen-Windturbinen, die auch in Städten, zum Beispiel auf Flachdächern von Hochhäusern oder auf Verkehrsinseln, aufgestellt werden können:
 
-**Geothermie:**
+Diese kleineren Turbinen arbeiten leiser und effizienter bei wechselnden Windrichtungen und können die Energieversorgung von Stadtvierteln unterstützen.
 
- Nutzung von Erdwärme für Heizungen und Warmwasser in Wohnblocks.
+**Intelligente Heizsysteme:**
 
----
+Statt veralteter Ölheizungen oder Kohlekraftwerken kommen moderne Heizlösungen zum Einsatz:
 
-### Innovative Baumaterialien:
+Wärmepumpen, die mit wenig Strom viel Wärme aus der Umgebungsluft oder dem Erdreich erzeugen oder
+Erdgasheizungen als Übergangslösung, idealerweise in Kombination mit Solarthermie.
 
-Transluzenter Beton (Litracon): Lässt Licht durch, spart Energie für Beleuchtung.
 
-Carbonbeton: Leichter und stabiler als Stahlbeton, spart CO₂ beim Bau.
-
-Photovoltaik-Fassaden: Solarpanels als Fassadenverkleidung.
 

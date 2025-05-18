@@ -6,35 +6,55 @@ weight: 3
 header_menu: true
 ---
 
-Städte leiden unter Staus, Lärm und Abgasen.
+Durch den Straßenverkehr, insbesondere durch den Brems- und Reifenabrieb, wird die Luft verschmutzt und erwärmt.
 
-Durch den Straßenverkehr, insbesondere durch den Brems- und Reifenabrieb wird die Luft verschmutzt und erwärmt,
-was nicht nur die Umwelt stark belastet, sondern auch die Lebensqualität in Städten erheblich senkt.
+Das belastet nicht nur die Umwelt, sondern senkt auch die Lebensqualität der Stadtbewohner erheblich.
 
-Neue Mobilitätskonzepte sollen den Verkehr reduzieren, die Luft verbessern und Ressourcen sparen.
+Um dem entgegenzuwirken, braucht es ncht nur ein gut ausgebautes und funktionierendes Netz öffentlicher verkehrsmittel, sondern auch neue Mobilitätskonzepte, die den Verkehr reduzieren, die Luftqualität verbessern und Ressourcen schonen.
 
----
+Gleichzeitig wird die Vermischung der Daseinsfunktionen – also Wohnen, Arbeiten, Bildung, Einkaufen und Erholung – gefördert. So lassen sich Wege verkürzen und viele Ziele bequem zu Fuß, mit dem Fahrrad oder öffentlichen Verkehrsmitteln erreichen, was nicht nur den Verkehr verringert, sondern Städte auch lebenswerter und vielseitiger macht.
 
 ### Konzepte
 
 **Carsharing:**
 
-Weniger Autos, dafür flexible Mietstationen in Wohngebieten.
-Carsharing-Fahrzeuge mit E-Antrieb und Solardach für Ladeunterstützung.
+Statt dass jede Person ein eigenes Auto besitzt, werden Carsharing-Angebote ausgebaut.
+Über Apps können Autos in der Nähe gebucht und für einzelne Fahrten genutzt werden.
+
+Besonders effizient sind Elektro-Carsharing-Autos, die leise und emissionsfrei unterwegs sind. So sinkt die Zahl der Fahrzeuge in der Stadt, Parkflächen werden frei und der Verkehr insgesamt wird entspannter und leiser.
+
+Eine Idee für die Zukunft wäre, dass solche Fahrzeuge automatisch erkennen, ob sie sich in Umweltzonen oder verkehrsberuhigten Bereichen befinden und entsprechend elektrisch oder gar nicht fahren.
+Darüberhinaus kann ein Solardach der Ladeunterstützung dienen.
 
 *Beispiel: Anbieter wie „Cambio“ oder „Share Now“ in großen Städten.*
 
 **Elektrische Mitfahrgelegenheiten:**
 
-Plattformen, bei denen Fahrten im E-Auto geteilt werden.
-Weniger Fahrzeuge auf den Straßen, günstigere Fahrpreise und reduzierter CO₂-Ausstoß.
+Ähnlich wie Carsharing sind elektrische Mitfahrangebote.
+Über eine App können sich Menschen mit ähnlichem Fahrziel zusammenschließen und gemeinsam, am besten ein ein E-Fahrzeug,nutzen — ähnlich wie ein Taxi, nur günstiger, flexibler und emissionsfrei.
 
-**Highline-Parks:**
+**Stapelsystem-Parkgaragen:**
 
-*Vorbild: New Yorks „High Line“ — eine stillgelegte Hochbahntrasse, die zu einem 2,3 km langen Park in luftiger Höhe umgebaut wurde.*
+Platz ist in der Stadt knapp.
+Um trotzdem genügend Stellflächen zu bieten, sind automatische Stapelparksysteme, bei denen mehrere Autos übereinander geparkt werden, eine innovative Idee.
+
+Der Fahrer stellt das Auto auf eine Plattform, die per Lift das Fahrzeug in eine freie Parkebene befördert.
+So wird viel Platz gespart und die Straßen bleiben frei von parkenden Autos.
 
 ![](/images/parken.png)
 
-In der Stadt der Zukunft könnten Highlines zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern.
+Solche Parktürme können darüber hinaus sogar begrünte Fassaden und Solardächer haben, um das Stadtklima zusätzlich zu verbessern.
+
+
+**Highline-Parks:**
+
+Ein wichtiger Baustein ist die Förderung von Fahrrad- und Fußverkehr. Dafür braucht es breite, sichere Radwege, ausreichend Abstellplätze.
+
+In New York wurde eine stillgelegte Hochbahntrasse zur High Line umgebaut — ein 2,3 km langer begrünter Fuß- und Radweg über den Straßen der Stadt.
+
+In deiner Zukunftsstadt könnte dieses Prinzip noch weitergedacht werden:
+Highlines könnten zu einem ganzen Netz aus Fuß- und Radwegen werden, mit schattigen Aufenthaltsplätzen, Urban Gardening-Flächen und Solarpanels an den Geländern und so trennen den langsamen Verkehr vom motorisierten trennnen.
+Besonders praktisch sind mit Bäumen begrünte Radwege, die Schatten spenden und das Radfahren auch im Sommer angenehm machen.
+
 
 
